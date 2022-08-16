@@ -19,9 +19,6 @@ public class prg19 {
 			System.out.println("Farenheit temperature for given cetigrade is :" +f);
 			
 		}
-		
-		
-		
 
 	}
 
